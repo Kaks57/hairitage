@@ -144,7 +144,7 @@ const Index = () => {
                 name: "Garfield",
                 role: "Barbier senior",
                 specialties: "Coupes hommes, Dégradés",
-                image: "public/garfield.PNG"
+                image: "/garfield.PNG"
               },
               {
                 name: "Hamza",
