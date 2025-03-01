@@ -53,7 +53,7 @@ const Index = () => {
           <div className="relative animate-fade-in">
             <div className="relative z-10 overflow-hidden rounded-2xl shadow-2xl">
               <img 
-                src="public/hairitage photo.webp" 
+                src="/hairitage photo.webp" 
                 alt="Salon de coiffure Hairitage" 
                 className="w-full h-[500px] object-cover transition-transform duration-700 hover:scale-105"
               />
