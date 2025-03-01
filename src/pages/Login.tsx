@@ -180,17 +180,7 @@ const Login: React.FC = () => {
               </form>
             </Form>
             
-            <div className="mt-6 space-y-3">
-              <h3 className="text-sm text-orange-300 text-center">Comptes de démonstration</h3>
-              <div className="grid grid-cols-1 gap-2 text-xs text-orange-300">
-                <div className="p-2 border border-orange-800/50 rounded-md">
-                  <p><strong>Coiffeur 1:</strong> garfield@hairitage.com / password123</p>
-                </div>
-                <div className="p-2 border border-orange-800/50 rounded-md">
-                  <p><strong>Coiffeur 2:</strong> hamza@hairitage.com / password123</p>
-                </div>
-              </div>
-            </div>
+            
           </CardContent>
           <CardFooter className="flex flex-col space-y-4 border-t border-orange-800/50 bg-orange-950/30">
             <div className="text-sm text-center text-orange-300 mt-2">
