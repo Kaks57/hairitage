@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Lovable project
 
 ## Project info
@@ -67,3 +68,7 @@ Simply open [Lovable](https://lovable.dev/projects/b9904137-6ff2-4552-a0f4-bdad4
 ## I want to use a custom domain - is that possible?
 
 We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+=======
+# hairitage
+a
+>>>>>>> dfd88cab5c13893806af79112ae0d332856905aa
